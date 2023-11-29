@@ -1,7 +1,7 @@
 
-# Musify
+# Spotify Clone
 
-Musify is an innovative web development project that brings the joy of music to users through a seamless and interactive online platform. Developed using HTML, CSS, and JavaScript, Musify offers a dynamic and user-friendly experience for music enthusiasts.
+A "Spotify Clone" built using HTML, CSS, and JavaScript is a Website that impersonates theappearance and functionality of Spotify. Although it may not have all the advanced features of the real Spotify, it can replicate the core functionalities such as displaying playlists and playing music.
 
 ## Features
 
@@ -28,9 +28,4 @@ We welcome contributions to the Khabar project. If you would like to contribute,
 - Make your changes and commit them with descriptive messages.
 - Push your changes to your fork.
 - Create a pull request to the main branch of this repository.
-
-
-## Screenshot
-![Musify](MusifyScreenshot.JPG)
-
 
