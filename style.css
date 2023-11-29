@@ -8,10 +8,6 @@ body{
     margin: 0;
     padding: 0;
 }
-a{
-    text-decoration: none;
-    color: white;
-}
 nav{
     font-family: 'Ubuntu', sans-serif;
 }
@@ -50,7 +46,8 @@ nav ul li{
    width: 70%;
    border-radius: 12px;
    padding: 34px;
-   background-image: url('musifybg.jpeg');
+   background-image: url('bg.jpg');
+   
 }
 
 .bottom{
@@ -118,34 +115,6 @@ nav ul li{
     opacity: 0;
     transition: opacity 0.4s ease-in;
 }
-/* ABOUT SECTION */
-.aboutBody{
-    background-image: url('musifybg.jpeg');
-}
-.aboutDiv{
-    margin-left: 100px;
-    margin-top: 30px;
-}
-.about-section {
-    float: left;
-    border-radius: 12px;
-    max-width: 500px;
-    margin: 20px auto;
-    padding: 20px;
-    background-color: whitesmoke;
-    box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
-}
-
-footer {
-    background-color: black;
-    color: #fff;
-    text-align: center;
-    padding: 1em 0;
-    position: fixed;
-    bottom: 0;
-    width: 100%;
-}
-
 @media only screen and (max-width: 1100px) {
     body {
       background-color: red;
